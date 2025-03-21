@@ -112,10 +112,6 @@ header .container img {
     width: 50px;
 }
 
-header .container nav {
-    margin: auto;
-}
-
 header .container nav ul {
     display: flex;
     transition: var(--main-transition);
